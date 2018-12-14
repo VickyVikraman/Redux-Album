@@ -1,0 +1,9 @@
+const ALBUM_ACTIONS = {
+    ADD: "ADD",
+    REMOVE: "REMOVE",
+    UPDATE:"UPDATE",
+    ADD_PHOTO:"ADD_PHOTO" ,
+    REMOVE_PHOTO:"REMOVE_PHOTO"
+};
+
+export { ALBUM_ACTIONS };
